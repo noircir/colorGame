@@ -1,3 +1,5 @@
+// First un-refactored program.
+
 // set number of squares at the beginning
 var numSquares = 6;
 
